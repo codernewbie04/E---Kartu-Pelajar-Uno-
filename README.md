@@ -6,7 +6,7 @@ implementasi dari penggunaan rfid dan database mysql (uno)
 
 for source code web : https://github.com/codernewbie04/E---Kartu-Pelajar
 
-Pin Configuration
+Pin Configuration<br>
 SDA  -> Pin 4 <br>
 SCK  -> Pin 13<br>
 Mosi -> Pin 11<br> 
